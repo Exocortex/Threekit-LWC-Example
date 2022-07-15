@@ -1,8 +1,5 @@
-import { LightningElement, wire, track, api } from 'lwc'
+import { LightningElement } from 'lwc'
 import { loadScript } from 'lightning/platformResourceLoader'
-// import threekit from '@salesforce/resourceUrl/playerbundle'
-import threekit from '@salesforce/resourceUrl/threekit'
-import d3 from '@salesforce/resourceUrl/d3'
 import admin from '@salesforce/resourceUrl/admin'
 
 
